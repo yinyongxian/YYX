@@ -70,6 +70,7 @@
     <Compile Include="Common\XmlSerializerHelper.cs" />
     <Compile Include="Email\Email.cs" />
     <Compile Include="Email\EmailInfo.cs" />
+    <Compile Include="IO\CloneHelper.cs" />
     <Compile Include="Office\ExcelInterop.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
