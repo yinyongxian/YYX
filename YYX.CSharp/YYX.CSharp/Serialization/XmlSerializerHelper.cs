@@ -3,7 +3,7 @@ using System.IO;
 using System.Windows.Forms;
 using System.Xml.Serialization;
 
-namespace YYX.CSharp
+namespace YYX.CSharp.Serialization
 {
     /// <summary>  
     /// xml序列化和反序列化  

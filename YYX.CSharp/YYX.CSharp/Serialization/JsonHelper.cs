@@ -7,7 +7,7 @@ namespace YYX.CSharp.Serialization
     /// <summary>
     /// JSON序列化和反序列化辅助类:DataContract、DataMember
     /// </summary>
-    public class JsonHelper
+    public static class JsonHelper
     {
         /// <summary>
         /// JSON序列化

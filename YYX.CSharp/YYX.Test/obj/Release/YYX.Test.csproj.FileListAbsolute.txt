@@ -1,0 +1,13 @@
+D:\Me\YYX\YYX.CSharp\YYX.CSharp.Output\YYX.Test.exe.config
+D:\Me\YYX\YYX.CSharp\YYX.CSharp.Output\YYX.Test.exe
+D:\Me\YYX\YYX.CSharp\YYX.CSharp.Output\YYX.Test.pdb
+D:\Me\YYX\YYX.CSharp\YYX.Test\obj\Release\YYX.Test.csprojResolveAssemblyReference.cache
+D:\Me\YYX\YYX.CSharp\YYX.Test\obj\Release\YYX.Test.fm_Main.resources
+D:\Me\YYX\YYX.CSharp\YYX.Test\obj\Release\YYX.Test.Form1.resources
+D:\Me\YYX\YYX.CSharp\YYX.Test\obj\Release\YYX.Test.Form_ObjectConverter.resources
+D:\Me\YYX\YYX.CSharp\YYX.Test\obj\Release\YYX.Test.Ping.Form_Ping.resources
+D:\Me\YYX\YYX.CSharp\YYX.Test\obj\Release\YYX.Test.Properties.Resources.resources
+D:\Me\YYX\YYX.CSharp\YYX.Test\obj\Release\YYX.Test.SendEmali.resources
+D:\Me\YYX\YYX.CSharp\YYX.Test\obj\Release\YYX.Test.csproj.GenerateResource.Cache
+D:\Me\YYX\YYX.CSharp\YYX.Test\obj\Release\YYX.Test.exe
+D:\Me\YYX\YYX.CSharp\YYX.Test\obj\Release\YYX.Test.pdb

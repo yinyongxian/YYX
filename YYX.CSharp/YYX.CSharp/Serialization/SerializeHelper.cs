@@ -8,7 +8,7 @@ using System.Runtime.Serialization.Json;
 using System.Text;
 using System.Xml.Serialization;
 
-namespace YYX.CSharp
+namespace YYX.CSharp.Serialization
 {
     /// <summary>
     /// 序列化帮助类

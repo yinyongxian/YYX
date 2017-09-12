@@ -12,6 +12,7 @@ namespace YYX.CSharp.IO
     /// </summary>
     public static class CloneHelper
     {
+        #region 克隆
         public static T DeepClone<T>(T sourceData)
         {
             try
@@ -37,14 +38,11 @@ namespace YYX.CSharp.IO
                 return formatter.Deserialize(stream);
             }
         }
+        #endregion
 
-        //====================================================================================================
-        //以上是深度克隆
-        //----------------------------------------------------------------------------------------------------
-        //以下是再次创建同类型实例
-        //====================================================================================================
-
+        #region 重新创建
         public static T CreateInstanceAgain<T>(T nowInstance)
+            where T : class, new()
         {
             try
             {
@@ -64,13 +62,9 @@ namespace YYX.CSharp.IO
             var typeFullName = type.FullName;
             return Assembly.CreateInstance(typeFullName, true);
         }
+        #endregion
 
-        //====================================================================================================
-        //以上是再次创建同类型实例
-        //----------------------------------------------------------------------------------------------------
-        //以下是校验空值
-        //====================================================================================================
-
+        #region 校验空值
         private static void CheckNull<T>(T t)
         {
             if (t == null)
@@ -79,5 +73,6 @@ namespace YYX.CSharp.IO
                 throw new InvalidOperationException(message);
             }
         }
+        #endregion
     }
 }

@@ -60,14 +60,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Common\PathManager.cs" />
-    <Compile Include="Common\SerializeHelper.cs" />
+    <Compile Include="IO\Storage.cs" />
+    <Compile Include="Serialization\SerializeHelper.cs" />
     <Compile Include="Controls\LoadingFlash.cs" />
     <Compile Include="Common\CodeTimer.cs" />
     <Compile Include="Common\ObjectConverter.cs" />
     <Compile Include="Common\PathHelper.cs" />
     <Compile Include="Common\Result.cs" />
     <Compile Include="Common\StopwatchHelper.cs" />
-    <Compile Include="Common\XmlSerializerHelper.cs" />
+    <Compile Include="Serialization\XmlSerializerHelper.cs" />
     <Compile Include="Email\Email.cs" />
     <Compile Include="Email\EmailInfo.cs" />
     <Compile Include="IO\CloneHelper.cs" />
