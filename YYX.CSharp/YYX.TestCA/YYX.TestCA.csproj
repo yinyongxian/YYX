@@ -54,6 +54,10 @@
       <Project>{4e356d5a-d78e-450c-8940-8cca044fd1b6}</Project>
       <Name>YYX.CSharp</Name>
     </ProjectReference>
+    <ProjectReference Include="..\YYX.Data\YYX.Data.csproj">
+      <Project>{32ca93d5-8ae7-4007-9847-11c4e35c82a5}</Project>
+      <Name>YYX.Data</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

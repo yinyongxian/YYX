@@ -24,13 +24,11 @@ namespace YYX.CSharp.Serialization
         {
             try
             {
-                T t;
                 using (var fileStream = new FileStream(filePath, FileMode.Open, FileAccess.Read))
                 {
                     var xmlSerializer = new XmlSerializer(typeof(T));
-                    t = xmlSerializer.Deserialize(fileStream) as T;
+                    return xmlSerializer.Deserialize(fileStream) as T;
                 }
-                return t;
             }
             catch (FileNotFoundException)
             {
