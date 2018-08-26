@@ -81,10 +81,10 @@
     </Compile>
     <Compile Include="Serialization\JsonHelper.cs" />
     <Compile Include="IO\TextFile.cs" />
+    <Compile Include="String\StringExtensions.cs" />
     <Compile Include="Windows\Cmd.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="String\" />
     <Folder Include="Web\" />
   </ItemGroup>
   <ItemGroup>

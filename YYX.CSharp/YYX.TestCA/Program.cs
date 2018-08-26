@@ -1,7 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.IO;
-using YYX.CSharp.IO;
 using YYX.Data;
 
 namespace YYX.TestCA
