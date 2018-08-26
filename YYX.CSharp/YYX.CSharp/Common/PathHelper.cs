@@ -1,11 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace YYX.CSharp
+namespace YYX.CSharp.Common
 {
     /// <summary>
     ///文件夹And文件

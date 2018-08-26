@@ -3,7 +3,7 @@ using System.Diagnostics;
 using System.Runtime.InteropServices;
 using System.Threading;
 
-namespace YYX.CSharp
+namespace YYX.CSharp.Common
 {
     public static class CodeTimer
     {

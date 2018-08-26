@@ -1,4 +1,4 @@
-﻿namespace YYX.Test
+﻿namespace YYX.Test.SentEmail
 {
     partial class SendEmali
     {

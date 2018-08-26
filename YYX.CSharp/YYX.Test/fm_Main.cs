@@ -2,7 +2,9 @@
 using System.Threading;
 using System.Windows.Forms;
 using YYX.CSharp;
+using YYX.Test.ObjectConverter;
 using YYX.Test.Ping;
+using YYX.Test.SentEmail;
 
 namespace YYX.Test
 {

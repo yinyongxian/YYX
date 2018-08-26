@@ -1,4 +1,4 @@
-﻿namespace YYX.Test
+﻿namespace YYX.Test.ObjectConverter
 {
     partial class Form_ObjectConverter
     {

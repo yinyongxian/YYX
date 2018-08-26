@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace YYX.CSharp
+namespace YYX.CSharp.Common
 {
     public static class PathManager
     {

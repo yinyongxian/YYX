@@ -1,9 +1,8 @@
 ﻿using System;
 using System.Windows.Forms;
+using YYX.CSharp.Common;
 
-using YYX.CSharp;
-
-namespace YYX.Test
+namespace YYX.Test.ObjectConverter
 {
     public partial class Form_ObjectConverter : Form
     {

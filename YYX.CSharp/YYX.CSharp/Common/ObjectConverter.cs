@@ -3,7 +3,7 @@ using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
 using System.Windows.Forms;
 
-namespace YYX.CSharp
+namespace YYX.CSharp.Common
 {
     /// <summary>
     /// 类保存成配置文件：序列化And反序列化

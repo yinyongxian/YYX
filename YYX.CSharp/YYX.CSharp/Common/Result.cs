@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace YYX.CSharp
+namespace YYX.CSharp.Common
 {
     /// <summary>
     /// 包含对/错和原因的结果

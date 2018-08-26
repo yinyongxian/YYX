@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using System.Windows.Forms;
 
-namespace YYX.CSharp
+namespace YYX.CSharp.Common
 {
     /// <summary>
     ///统计程序执行时间
