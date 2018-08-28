@@ -1,8 +1,0 @@
-D:\Me\YYX\YYX.CSharp\YYX.TestCA\bin\Release\YYX.TestCA.exe.config
-D:\Me\YYX\YYX.CSharp\YYX.TestCA\bin\Release\YYX.TestCA.exe
-D:\Me\YYX\YYX.CSharp\YYX.TestCA\bin\Release\YYX.TestCA.pdb
-D:\Me\YYX\YYX.CSharp\YYX.TestCA\bin\Release\YYX.CSharp.dll
-D:\Me\YYX\YYX.CSharp\YYX.TestCA\bin\Release\YYX.CSharp.pdb
-D:\Me\YYX\YYX.CSharp\YYX.TestCA\obj\Release\YYX.TestCA.csprojResolveAssemblyReference.cache
-D:\Me\YYX\YYX.CSharp\YYX.TestCA\obj\Release\YYX.TestCA.exe
-D:\Me\YYX\YYX.CSharp\YYX.TestCA\obj\Release\YYX.TestCA.pdb

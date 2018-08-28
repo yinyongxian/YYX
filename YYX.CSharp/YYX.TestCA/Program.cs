@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using YYX.CSharp.Common;
 using YYX.Data;
 
 namespace YYX.TestCA
@@ -8,16 +9,16 @@ namespace YYX.TestCA
     {
         static void Main(string[] args)
         {
-            var hashSet = new HashSet<Person>();
-            //{
-            //    "尹",
-            //    "永",
-            //    "贤",
-            //    "贤",
-            //};
-
-            hashSet.Add(new Person("尹永贤", 1));
-            hashSet.UnionWith(new[]{new Person("尹永贤", 2)});
+            try
+            {
+                throw new Exception();
+            }
+            catch (Exception e)
+            {
+                var logger = new FileLogger();
+                logger.WriterException(e);
+                throw;
+            }
 
             Console.ReadLine();
         }

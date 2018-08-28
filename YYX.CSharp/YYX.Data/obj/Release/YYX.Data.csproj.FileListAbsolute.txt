@@ -1,5 +1,0 @@
-D:\Me\YYX\YYX.CSharp\YYX.Data\bin\Release\YYX.Data.dll
-D:\Me\YYX\YYX.CSharp\YYX.Data\bin\Release\YYX.Data.pdb
-D:\Me\YYX\YYX.CSharp\YYX.Data\obj\Release\YYX.Data.csprojResolveAssemblyReference.cache
-D:\Me\YYX\YYX.CSharp\YYX.Data\obj\Release\YYX.Data.dll
-D:\Me\YYX\YYX.CSharp\YYX.Data\obj\Release\YYX.Data.pdb

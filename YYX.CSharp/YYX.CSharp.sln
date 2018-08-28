@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YYX.CSharp", "YYX.CSharp\YYX.CSharp.csproj", "{4E356D5A-D78E-450C-8940-8CCA044FD1B6}"
 EndProject
@@ -20,6 +20,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YYX.Data", "YYX.Data\YYX.Data.csproj", "{32CA93D5-8AE7-4007-9847-11C4E35C82A5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YYX.AsyncDemo", "YYX.AsyncDemo\YYX.AsyncDemo.csproj", "{68A1A3AD-00EB-4F12-A319-58AFCBD74BDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YYX.CleanSolution", "YYX.CleanSolution\YYX.CleanSolution.csproj", "{46285E56-30B6-4566-9F7B-D09A5881A481}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,8 +53,15 @@ Global
 		{68A1A3AD-00EB-4F12-A319-58AFCBD74BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68A1A3AD-00EB-4F12-A319-58AFCBD74BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68A1A3AD-00EB-4F12-A319-58AFCBD74BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46285E56-30B6-4566-9F7B-D09A5881A481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46285E56-30B6-4566-9F7B-D09A5881A481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46285E56-30B6-4566-9F7B-D09A5881A481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46285E56-30B6-4566-9F7B-D09A5881A481}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9B265A8-55A4-43C2-B608-A96BD69C4117}
 	EndGlobalSection
 EndGlobal

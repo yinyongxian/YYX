@@ -1,6 +1,0 @@
-D:\Me\YYX\YYX.CSharp\YYX.CSharp.Output\YYX.CSharp.dll
-D:\Me\YYX\YYX.CSharp\YYX.CSharp.Output\YYX.CSharp.pdb
-D:\Me\YYX\YYX.CSharp\YYX.CSharp\obj\Release\YYX.CSharp.Properties.Resources.resources
-D:\Me\YYX\YYX.CSharp\YYX.CSharp\obj\Release\YYX.CSharp.csproj.GenerateResource.Cache
-D:\Me\YYX\YYX.CSharp\YYX.CSharp\obj\Release\YYX.CSharp.dll
-D:\Me\YYX\YYX.CSharp\YYX.CSharp\obj\Release\YYX.CSharp.pdb

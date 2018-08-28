@@ -1,5 +1,0 @@
-D:\Me\YYX\YYX.CSharp\YYX.AsyncDemo\bin\Release\YYX.AsyncDemo.exe.config
-D:\Me\YYX\YYX.CSharp\YYX.AsyncDemo\bin\Release\YYX.AsyncDemo.exe
-D:\Me\YYX\YYX.CSharp\YYX.AsyncDemo\bin\Release\YYX.AsyncDemo.pdb
-D:\Me\YYX\YYX.CSharp\YYX.AsyncDemo\obj\Release\YYX.AsyncDemo.exe
-D:\Me\YYX\YYX.CSharp\YYX.AsyncDemo\obj\Release\YYX.AsyncDemo.pdb

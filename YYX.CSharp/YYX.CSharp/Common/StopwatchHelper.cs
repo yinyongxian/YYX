@@ -36,7 +36,7 @@ namespace YYX.CSharp.Common
 
         public static void Start()
         {
-            result = String.Format("时间\t\t总时间间隔\t时间间隔{0}", Environment.NewLine);
+            result = string.Format("时间\t\t总时间间隔\t时间间隔{0}", Environment.NewLine);
             stopwatch.Start();
         }
 
@@ -73,7 +73,7 @@ namespace YYX.CSharp.Common
 
         private static void AddResult(string totalTimeSpan, string timeSpan)
         {
-            result += String.Format("{0}\t{1}\t{2}{3}", DateTime.Now.ToString(),totalTimeSpan, timeSpan, Environment.NewLine);
+            result += string.Format("{0}\t{1}\t{2}{3}", DateTime.Now.ToString(),totalTimeSpan, timeSpan, Environment.NewLine);
         }
     }
 }

@@ -59,7 +59,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Common\FileLogger.cs" />
     <Compile Include="Common\PathManager.cs" />
+    <Compile Include="Helpers\PathHelper.cs" />
     <Compile Include="IO\Storage.cs" />
     <Compile Include="Serialization\SerializeHelper.cs" />
     <Compile Include="Controls\LoadingFlash.cs" />
