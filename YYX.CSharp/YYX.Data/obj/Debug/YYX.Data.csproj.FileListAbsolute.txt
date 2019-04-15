@@ -1,0 +1,5 @@
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.Data\bin\Debug\YYX.Data.dll
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.Data\bin\Debug\YYX.Data.pdb
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.Data\obj\Debug\YYX.Data.csproj.CoreCompileInputs.cache
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.Data\obj\Debug\YYX.Data.dll
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.Data\obj\Debug\YYX.Data.pdb

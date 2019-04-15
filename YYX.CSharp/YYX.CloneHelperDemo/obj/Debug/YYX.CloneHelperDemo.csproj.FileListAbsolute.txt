@@ -1,0 +1,12 @@
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.CloneHelperDemo\bin\Debug\YYX.CloneHelperDemo.exe.config
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.CloneHelperDemo\bin\Debug\YYX.CloneHelperDemo.exe
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.CloneHelperDemo\bin\Debug\YYX.CloneHelperDemo.pdb
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.CloneHelperDemo\bin\Debug\YYX.CSharp.dll
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.CloneHelperDemo\bin\Debug\YYX.Data.dll
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.CloneHelperDemo\bin\Debug\YYX.CSharp.pdb
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.CloneHelperDemo\bin\Debug\YYX.Data.pdb
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.CloneHelperDemo\obj\Debug\YYX.CloneHelperDemo.csprojResolveAssemblyReference.cache
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.CloneHelperDemo\obj\Debug\YYX.CloneHelperDemo.csproj.CoreCompileInputs.cache
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.CloneHelperDemo\obj\Debug\YYX.CloneHelperDemo.csproj.CopyComplete
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.CloneHelperDemo\obj\Debug\YYX.CloneHelperDemo.exe
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.CloneHelperDemo\obj\Debug\YYX.CloneHelperDemo.pdb

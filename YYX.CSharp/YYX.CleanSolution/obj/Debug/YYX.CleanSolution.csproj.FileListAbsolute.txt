@@ -1,0 +1,5 @@
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\Output\YYX.CleanSolution.exe
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\Output\YYX.CleanSolution.pdb
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.CleanSolution\obj\Debug\YYX.CleanSolution.csproj.CoreCompileInputs.cache
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.CleanSolution\obj\Debug\YYX.CleanSolution.exe
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.CleanSolution\obj\Debug\YYX.CleanSolution.pdb

@@ -20,7 +20,7 @@ namespace YYX.TestCA
                 throw;
             }
 
-            Console.ReadLine();
+            //Console.ReadLine();
         }
     }
 }

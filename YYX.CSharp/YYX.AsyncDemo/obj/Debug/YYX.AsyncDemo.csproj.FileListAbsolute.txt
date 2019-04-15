@@ -1,0 +1,6 @@
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.AsyncDemo\bin\Debug\YYX.AsyncDemo.exe.config
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.AsyncDemo\bin\Debug\YYX.AsyncDemo.exe
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.AsyncDemo\bin\Debug\YYX.AsyncDemo.pdb
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.AsyncDemo\obj\Debug\YYX.AsyncDemo.csproj.CoreCompileInputs.cache
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.AsyncDemo\obj\Debug\YYX.AsyncDemo.exe
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.AsyncDemo\obj\Debug\YYX.AsyncDemo.pdb

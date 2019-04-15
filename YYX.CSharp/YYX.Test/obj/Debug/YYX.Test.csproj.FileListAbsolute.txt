@@ -1,0 +1,15 @@
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.CSharp.Output\YYX.Test.exe.config
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.CSharp.Output\YYX.Test.exe
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.CSharp.Output\YYX.Test.pdb
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.Test\obj\Debug\YYX.Test.csprojResolveAssemblyReference.cache
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.Test\obj\Debug\YYX.Test.fm_Main.resources
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.Test\obj\Debug\YYX.Test.Form1.resources
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.Test\obj\Debug\YYX.Test.ObjectConverter.Form_ObjectConverter.resources
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.Test\obj\Debug\YYX.Test.Ping.Form_Ping.resources
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.Test\obj\Debug\YYX.Test.Properties.Resources.resources
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.Test\obj\Debug\YYX.Test.SentEmail.SendEmali.resources
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.Test\obj\Debug\YYX.Test.csproj.GenerateResource.cache
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.Test\obj\Debug\YYX.Test.csproj.CoreCompileInputs.cache
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.Test\obj\Debug\YYX.Test.csproj.CopyComplete
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.Test\obj\Debug\YYX.Test.exe
+C:\Users\x\Source\Repos\yinyongxian\YYX\YYX.CSharp\YYX.Test\obj\Debug\YYX.Test.pdb
